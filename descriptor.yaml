@@ -1,0 +1,8 @@
+code: two-pictures
+description: two-pictures
+bundle-type: system-level-bundle
+components:
+  fragments: []
+  assets:
+    - assets/9/9-descriptor.yaml
+    - assets/10/10-descriptor.yaml
